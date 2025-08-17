@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fkauffmann
-- 👀 I’m interested in software development, 3d modeling, aviation and flight simulation
+- 👀 I’m interested in software development, 3d modeling, retrogaming, metal, aviation and flight simulation
 - 🛫 I develop addons for X-Plane 12
 - 💞️ I’m looking to collaborate on DCS add-on projects
 - 📫 How to reach me fabrice.kauffmann@gmail.com
